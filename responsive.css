@@ -1,0 +1,550 @@
+@media screen and (max-width:1100px){
+    main .ubralo{
+        background-position: 70%;
+    }
+}
+@media screen and (max-width:1000px){
+    main .ubralo{
+        background-position: 70%;
+    }
+}
+@media screen and (max-width:900px){
+    main .ubralo{
+        background-position: 70%;
+    }
+}
+@media screen and (max-width:800px){
+    main .ubralo{
+        background-position: 70%;
+    }
+}
+@media screen and (max-width:550px){
+    main .ubralo{
+        background-position: 70%;
+    }
+}
+@media screen and (max-width:500px){
+    main .ubralo{
+        background-position: 70%;
+    }
+}
+@media screen and (max-width:400px){
+    main .ubralo{
+        background-position: 70%;
+    }
+}
+@media screen and (min-width:400px){
+    main .ubralo{
+        width: 100%;
+    }
+}
+@media screen and (max-width:700px){
+    main .text h1{
+        font-size: 30px;
+    }
+}
+@media screen and (max-width:700px){
+    main .text p{
+        letter-spacing: 7px;
+    }
+}
+@media screen and (max-width:550px){
+    main .text p{
+        font-size: 20px;
+        letter-spacing: 3px;
+    }
+}
+@media screen and (max-width:450px){
+    main .text h1{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:400px){
+    main .text p{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:450px){
+    main text p{
+        font-size: 10px;
+    }
+}
+@media screen and (max-width:1000px){
+    header .right .aferisti .container-fluid .navbar-collapse ul li a{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+}
+/* @media screen and (max-width:1200px){
+    main .wrap .banner{
+        display: grid;
+        grid-template-rows: 3fr 3fr 3fr;
+    }
+} */
+@media screen and (max-width:1100px){
+    main .wrap .banner .one{
+        width: 250px;
+        height: 450px;
+    }
+    main .wrap .banner .two{
+        width: 250px;
+        height: 450px;
+    }
+    main .wrap .banner .three{
+        width: 250px;
+        height: 450px;
+    }
+}
+@media screen and (max-width:800px){
+    main .wrap .banner{
+        display: grid;
+        grid-template-columns: 1fr;
+        margin-left: 240px;
+    }
+    main .wrap .banner .one{
+        width: 500px;
+    }
+    main .wrap .banner .two{
+        width: 500px;
+    }
+    main .wrap .banner .three{
+        width: 500px;
+    }
+}
+@media screen and (max-width:700px){
+    main .wrap .banner{
+        margin-left: 145px;
+    }
+}
+@media screen and (max-width:700px){
+    main .wrap .banner{
+        margin-left: 40px;
+    }
+}
+@media screen and (max-width:550px){
+    main .wrap .banner{
+        margin-left: 20px;
+    }
+}
+@media screen and (max-width:480px){
+    main .wrap .banner{
+        margin-left: 50px;
+    }
+    main .wrap .banner .one{
+        width: 350px;
+    }
+    main .wrap .banner .two{
+        width: 350px;
+    }
+    main .wrap .banner .three{
+        width: 350px;
+    }
+}
+@media screen and (max-width:430px){
+    main .wrap .banner{
+        margin-left: 15px;
+    }
+}
+@media screen and (max-width:700px){
+    main .fotoebi .erti{
+        width: 200px;
+        height: 300px;
+    }
+    main .fotoebi .ori{
+        width: 300px;
+        height: 500px;
+    }
+    main .fotoebi2 .sami{
+        width: 200px;
+        height: 400px;
+    }
+    main .fotoebi2 .otxi{
+        width: 300px;
+        height: 500px;
+    }
+    main .fotoebi3 .xuti{
+        width: 400px;
+        height: 450px;
+    }
+}
+@media screen and (max-width:500px){
+    main .fotoebi .erti{
+        width: 150px;
+        height: 340px;
+    }
+    main .fotoebi .ori{
+        width: 220px;
+        height: 350px;
+    }
+    main .fotoebi2 .sami{
+        width: 150px;
+        height: 300px;
+    }
+    main .fotoebi2 .otxi{
+        width: 200px;
+        height: 350px;
+    }
+    main .fotoebi3 .xuti{
+        width: 350px;
+        height: 450px;
+    }
+}
+@media screen and (max-width:1050px){
+    main .fotoebi4 .eqvsi{
+        width: 400px;
+        height: 400px;
+    }
+    main .fotoebi4 .shvidi{
+        width: 350px;
+        height: 450px;
+    }
+    main .fotoebi5 .rva{
+        width: 350px;
+        height: 500px;
+    }
+    main .fotoebi5 .cxra{
+        width: 350px;
+        height: 450px;
+    }
+    main .fotoebi6 .ati{
+        width: 350px;
+        height: 450px;
+    }
+    main .fotoebi6 .tertmeti{
+        width: 250px;
+        height: 450px;
+    }
+}
+@media screen and (max-width:780px){
+    main .fotoebi4 .eqvsi{
+        width: 250px;
+        height: 300px;
+    }
+    main .fotoebi4 .shvidi{
+        width: 250px;
+        height: 300px;
+    }
+    main .fotoebi5 .rva{
+        width: 250px;
+        height: 350px;
+    }
+    main .fotoebi5 .cxra{
+        width: 270px;
+        height: 350px;
+    }
+    main .fotoebi6 .tertmeti{
+        width: 200px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:570px){
+    main .fotoebi4 .eqvsi{
+        width: 180px;
+        height: 250px;
+    }
+    main .fotoebi4 .shvidi{
+        width: 180px;
+        height: 250px;
+    }
+    main .fotoebi5 .rva{
+        width: 180px;
+        height: 250px;
+    }
+    main .fotoebi5 .cxra{
+        width: 180px;
+        height: 250px;
+    }
+    main .fotoebi6 .ati{
+        width: 180px;
+        height: 250px;
+    }
+    main .fotoebi6 .tertmeti{
+        width: 180px;
+        height: 250px;
+    }
+}
+@media screen and (max-width:1200px){
+    main .pictures .picturesone{
+        width: 400px;
+        height: 600px;
+    }
+    main .pictures .picturestwo{
+        width: 400px;
+        height: 600px;
+    }
+    main .picturesthree{
+        width: 400px;
+        height: 600px;
+    }
+    main .picturesfourth{
+        width: 400px;
+        height: 600px;
+    }
+    main .pictures2 .picturesfive{
+        width: 400px;
+        height: 600px;
+    }
+    main .pictures2 .picturessix{
+        width: 400px;
+        height: 600px;
+    }
+}
+@media screen and (max-width:960px){
+    main .pictures .picturesone{
+        width: 280px;
+        height: 350px;
+    }
+    main .pictures .picturestwo{
+        width: 280px;
+        height: 350px;
+    }
+    main .picturesthree{
+        width: 280px;
+        height: 350px;
+    }
+    main .picturesfourth{
+        width: 280px;
+        height: 350px;
+    }
+    main .pictures2 .picturesfive{
+        width: 280px;
+        height: 350px;
+    }
+    main .pictures2 .picturessix{
+        width: 280px;
+        height: 350px;
+    }
+}
+@media screen and (max-width:700px){
+    main .pictures .picturesone{
+        width: 180px;
+        height: 250px;
+    }
+    main .pictures .picturestwo{
+        width: 180px;
+        height: 250px;
+    }
+    main .picturesthree{
+        width: 180px;
+        height: 250px;
+    }
+    main .picturesfourth{
+        width: 180px;
+        height: 250px;
+    }
+    main .pictures2 .picturesfive{
+        width: 180px;
+        height: 250px;
+    }
+    main .pictures2 .picturessix{
+        width: 180px;
+        height: 250px;
+    }
+}
+@media screen and (max-width:1250px){
+    main .saxeli .meore{
+        width: 700px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:1070px){
+    main .saxeli .meore{
+        width: 550px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:1070px){
+    main .saxeli .meore{
+        width: 425px;
+        height: 300px;
+        margin-left: 180px;
+    }
+}
+@media screen and (max-width:777px){
+    main .foto{
+        width: 200px;
+        height: 300px;
+        margin-left: 100px;
+    }
+    main .kravs .usaxelo p{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width:777px){
+    main .kravs .usaxelo p{
+        font-size: 10px;
+    }
+    main .saxeli .meore{
+        width: 266px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:609px){
+    main .kravs .usaxelo p{
+        font-size: 8px;
+    }   
+}
+@media screen and (max-width:609px){
+    main .kravs .usaxelo p{
+        font-size: 5px;
+    }
+    main .mesame p{
+        font-size: 12px;
+    }
+    main .foto{
+        width: 230px;
+        height: 200px;
+    }
+    main .saxeli .meore{
+        width: 150px;
+        height: 300px;
+    }
+}
+@media screen and (max-width:800px){
+    main .kravs{
+        height: 390px;
+    }
+}
+@media screen and (max-width:700px){
+    main .kravs{
+        height: 350px;
+    }
+    main{
+        height: 600px;
+    }
+}
+@media screen and (max-width:680px){
+    main{
+        height: 575px;
+    }
+}
+@media screen and (max-width:585px){
+    main .kravs{
+        height: 280px;
+    }
+}
+@media screen and (max-width:500px){
+    footer{
+        height: 18px;
+    }
+}
+@media screen and (max-width:1380px){
+    main .ertad .adzin{
+        width: 300px;
+        height: 250px;
+    }
+    main .ertad .dva{
+        width: 300px;
+        height: 280px;
+    }
+    main .ertad .tri{
+        width: 300px;
+        height: 280px;
+    }
+    main .ertad{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:1380px){
+    main{
+        height: 530px;
+    }
+    main .ertad .adzin{
+        width: 230px;
+        height: 200px;
+    }
+    main .ertad .dva{
+        width: 230px;
+        height: 230px;
+    }
+    main .ertad .tri{
+        width: 230px;
+        height: 200px;
+    }
+    }
+@media screen and (max-width:820px){
+    main .ertad .adzin{
+        width: 170px;
+        height: 170px;
+        background-position: 20%;
+    }
+    main .ertad .dva{
+        width: 170px;
+        height: 200px;
+        background-position: 30%;
+    }
+    main .ertad .tri{
+        width: 170px;
+        height: 170px;
+    }
+    main .xashuri h1{
+        margin-left: 30px;
+    }
+    main .ertad{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:630px){
+    main .ertad .adzin{
+        width: 120px;
+        height: 120px;
+    }
+    main .ertad .dva{
+        width: 120px;
+        height: 150px;
+    }
+    main .ertad .tri{
+        width: 120px;
+        height: 120px;
+    }
+    main{
+        height: 420px;
+    }
+    footer{
+        height: 40px;
+    }
+    main .ertad{
+        font-size: 11px;
+    }
+}
+@media screen and (max-width:500px){
+    main .ertad{
+        font-size: 14px;
+    }
+}
+@media screen and (max-width:480px){
+    main .ertad .adzin{
+        width: 90px;
+        height: 90px;
+    }
+    main .ertad .dva{
+        width: 90px;
+        height: 120px;
+    }
+    main .ertad .tri{
+        width: 90px;
+        height: 90px;
+    }
+    main{
+        height: 370px;
+    }
+    main .ertad{
+        font-size: 10px;
+        margin-top: -40px;
+    }
+}
+@media screen and (max-width:600px){
+    main .cv .cv2{
+        margin-left: -60px;
+    }
+    main .cv .cv2 h1{
+        font-size: 17px;
+    }
+    main .cv .cv2 p{
+        font-size: 13px;
+    }
+}
+
+
+

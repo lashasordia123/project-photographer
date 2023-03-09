@@ -1,0 +1,147 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+}
+header .left {
+    width: 44%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+header .left svg{
+    font-size: 40px;
+}
+header .left a{
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+header .right {
+    display: flex;
+}
+header .right .aferisti .container-fluid .navbar-collapse ul{
+    display: flex;
+    gap: 50px;
+}
+header .right .aferisti .container-fluid .navbar-collapse ul li a{
+    color: white;
+}
+header .right .aferisti .container-fluid .navbar-collapse ul li a:hover{
+
+    background-color: rgb(25, 48, 43);
+    transition: 0.5s;
+    border-radius: 47%;
+}
+main{
+    width: 100%;
+    height: 100%;
+}
+main .top h1{
+    width: 25%;
+    color: white;
+    display: flex;
+    justify-content: end;
+}
+main .fotoebi4{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+}
+main .fotoebi4 .eqvsi{
+    background-image: url("./Seawind-Chairs-Portrait.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 30px;
+    width: 500px;
+    height: 450px;
+}
+main .fotoebi4 .shvidi{
+    background-image: url("./sea-science.jpg");
+    background-repeat: no-repeat;
+    width: 400px;
+    height: 600px;
+}
+main .fotoebi5{
+    display: grid;
+    grid-template-columns: 3fr 3fr;
+}
+main .fotoebi5 .rva{
+    background-image: url("./Shutterstock_117451786.jpg.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 30%;
+    width: 400px;
+    height: 600px;
+}
+main .fotoebi5 .cxra{
+    background-image: url("./bar-goto-nyc-bar-interior-Alex-lau.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 450px;
+    height: 550px;
+}
+main .fotoebi6{
+    display: grid;
+    grid-template-columns: 3fr 3.5fr;
+}
+main .fotoebi6 .ati{
+    background-image: url("./mumbai-metro-archohm_2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 50px;
+    width: 500px;
+    height: 500px;
+}
+main .fotoebi6 .tertmeti{
+    background-image: url("./Progetto-senza-titolo-5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 400px;
+    height: 500px;
+}
+main .marcxena{
+    width: 45%;
+    display: flex;
+    justify-content: end;
+}
+main .marcxena a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    display: flex;
+}
+main .marcxena a:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+main .marjvena{
+    display: flex;
+    justify-content: end;
+    width: 80%;
+    margin-top: -20px;
+}
+main .marjvena a{
+    height: 1px;
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+main .marjvena a:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+footer{
+    width: 100%;
+    height: 100%;
+}

@@ -1,0 +1,124 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: black;
+}
+header{
+    width: 100%;
+    height: 100px;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Roboto', sans-serif;
+}
+header .left {
+    width: 44%;
+    height: 100px;
+    display: flex;
+    align-items: center;
+}
+header .left svg{
+    font-size: 40px;
+}
+header .left a{
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+}
+header .right {
+    display: flex;
+}
+header .right .aferisti .container-fluid .navbar-collapse ul{
+    display: flex;
+    gap: 50px;
+}
+header .right .aferisti .container-fluid .navbar-collapse ul li a{
+    color: white;
+}
+header .right .aferisti .container-fluid .navbar-collapse ul li a:hover{
+
+    background-color: rgb(25, 48, 43);
+    transition: 0.5s;
+    border-radius: 47%;
+}
+main{
+    width: 100%;
+    height: 100%;
+}
+main .top{
+    width: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: white;
+}
+main .pictures{
+    display: grid;
+    grid-template-columns: 2fr 2fr;
+    grid-template-rows: 2fr 2fr;
+    row-gap: 60px;
+    margin-left: 90px;
+}
+main .pictures .picturesone{
+    background-image: url("./chanel-49-1642706930.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 900px;
+}
+main .pictures .picturestwo{
+    background-image: url("./PVD5ABTSTOI4BKDEVUNJ36I3CE.avif");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 900px;
+}
+main .picturesthree{
+    background-image: url("./fashionbloggersprimary-2210aaad71a0454a899fa4345bef529f.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+    width: 600px;
+    height: 800px;
+}
+main .picturesfourth{
+    background-image: url("./11153298.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 600px;
+    height: 835px;
+}
+main .pictures2{
+    grid-template-columns: 2fr 2fr;
+    display: grid;
+    margin-left: 90px;
+}
+main .pictures2 .picturesfive{
+    background-image: url("./Fashion\ Diva\ Dhawan.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 607px;
+    height: 911px;
+}
+main .pictures2 .picturessix{
+    background-image: url("./Arise-Fashion-Week-2023-Mariya-SanusiIMG_3805-scaled.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 606px;
+    height: 840px;
+}
+main .sxva{
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+}
+main .sxva a{
+    text-decoration: none;
+    color: white;
+}
+main .sxva a:hover{
+    background-color: white;
+    color: black;
+    transition: 0.5s;
+}
+
